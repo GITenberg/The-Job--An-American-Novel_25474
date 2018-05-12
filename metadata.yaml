@@ -1,0 +1,49 @@
+_repo: The-Job--An-American-Novel_25474
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lewis, Sinclair
+    alias: Lewis, Harry Sinclair
+    birthdate: 1885
+    deathdate: 1951
+    gutenberg_agent_id: '278'
+    url: http://www.gutenberg.org/2009/agents/278
+    wikipedia: http://en.wikipedia.org/wiki/Sinclair_Lewis
+description: "The Job is an early work by American novelist Sinclair Lewis. It is\
+  \ considered an early declaration of the rights of working women. The focus is on\
+  \ the main character, Una Golden, and her desire to establish herself in a legitimate\
+  \ occupation while balancing the eventual need for marriage. The story takes place\
+  \ in the early 1900-1920s and takes Una from a small Pennsylvania town to New York.\
+  \ Forced to work due to family illness, Una shows a talent for the traditional male\
+  \ bastion of commercial real estate and, while valued by her company, she struggles\
+  \ to achieve the same status of her male coworkers.\nOn a parallel track, her quest\
+  \ for traditional romance and love is important but her unique role as a working\
+  \ woman, doing a man's job, makes it tough to find an appropriate suitor.\nUna is\
+  \ on track to marry Walter Babson, who appears to be a good man but lacks the excitement\
+  \ of her eventual husband, Edward Schwirtz. He is a salesman with all the charm\
+  \ necessary to win her heart, but the marriage is doomed from the start. Una eventually\
+  \ determines to divorce him, which is also scandalous for the time. As the book\
+  \ closes, Una emerges triumphant in both her career and her personal life.\nThe\
+  \ novel was published before Lewis achieved any significant fame and provides insights\
+  \ on working women as well as the unique nature (for the time) of having a woman\
+  \ as the lead character.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2008-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25474'
+  wikidata: Q7743319
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcsh 'Women white collar workers -- Fiction'
+- !lcc 'PS'
+title: 'The Job: An American Novel'
+url: http://www.gutenberg.org/ebooks/25474
+wikipedia:
+- https://en.wikipedia.org/wiki/The_Job_(novel)
