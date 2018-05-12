@@ -30,6 +30,8 @@ description: "The Job is an early work by American novelist Sinclair Lewis. It i
   \ novel was published before Lewis achieved any significant fame and provides insights\
   \ on working women as well as the unique nature (for the time) of having a woman\
   \ as the lead character.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25474#The-Job--An-American-Novel
 gutenberg_issued: '2008-05-15'
 gutenberg_type: Text
 identifiers:
